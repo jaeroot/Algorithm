@@ -21,7 +21,7 @@
     <ClCompile Include="Doit\000_2750.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="001_11720.cpp">
+    <ClCompile Include="Doit\001_11720.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
     <ClCompile Include="Doit\001_11720_sol.cpp">
@@ -39,46 +39,46 @@
     <ClCompile Include="Doit\003_11659_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="004_11660.cpp">
+    <ClCompile Include="Doit\004_11660.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="004_11660_sol.cpp">
+    <ClCompile Include="Doit\004_11660_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="005_10986.cpp">
+    <ClCompile Include="Doit\005_10986.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="005_10986_sol.cpp">
+    <ClCompile Include="Doit\005_10986_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="006_2018.cpp">
+    <ClCompile Include="Doit\006_2018.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="006_2018_sol.cpp">
+    <ClCompile Include="Doit\006_2018_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="007_1940.cpp">
+    <ClCompile Include="Doit\007_1940.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="007_1940_sol.cpp">
+    <ClCompile Include="Doit\007_1940_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="008_1253.cpp">
+    <ClCompile Include="Doit\008_1253.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="008_1253_sol.cpp">
+    <ClCompile Include="Doit\008_1253_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="009_12891.cpp">
+    <ClCompile Include="Doit\009_12891.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="009_12891_sol.cpp">
+    <ClCompile Include="Doit\009_12891_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="010_11003.cpp">
+    <ClCompile Include="Doit\010_11003.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
-    <ClCompile Include="010_11003_sol.cpp">
+    <ClCompile Include="Doit\010_11003_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
   </ItemGroup>
