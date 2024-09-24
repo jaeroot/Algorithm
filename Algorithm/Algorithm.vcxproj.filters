@@ -117,5 +117,11 @@
     <ClCompile Include="Doit\016_1377_sol.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
+    <ClCompile Include="Doit\017_1427.cpp">
+      <Filter>소스 파일\Doit</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\017_1427_sol.cpp">
+      <Filter>소스 파일\Doit</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
