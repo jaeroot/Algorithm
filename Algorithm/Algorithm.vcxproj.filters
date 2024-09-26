@@ -16,172 +16,187 @@
     <Filter Include="소스 파일\Doit">
       <UniqueIdentifier>{cfd6d345-2dc8-4b26-bc7b-717e54804fda}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Doit\DataStructure">
+      <UniqueIdentifier>{d9ff7551-626a-47be-9a0b-565ecad9ef2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Doit\Sort">
+      <UniqueIdentifier>{56f106d2-6357-4e0f-a766-eed532ac9063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Doit\Search">
+      <UniqueIdentifier>{c18654f8-6409-441e-a106-347c5e661b8b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Doit\000_2750.cpp">
       <Filter>소스 파일\Doit</Filter>
     </ClCompile>
     <ClCompile Include="Doit\001_11720.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\001_11720_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\002_1546.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\002_1546_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\003_11659.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\003_11659_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\004_11660.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\004_11660_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\005_10986.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\005_10986_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\006_2018.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\006_2018_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\007_1940.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\007_1940_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\008_1253.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\008_1253_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\009_12891.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\009_12891_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\010_11003.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\010_11003_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\011_1874.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\011_1874_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\012_17298.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\012_17298_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\013_2164.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\013_2164_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\014_11286.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\014_11286_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="Doit\015_2750.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\015_2750_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\016_1377.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\016_1377_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\017_1427.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\017_1427_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\018_11399.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\018_11399_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\019_11004.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\019_11004_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\020_2751.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\020_2751_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\021_1517.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\021_1517_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\022_10989.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\022_10989_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Doit\023_11724.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\023_11724_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\024_2023.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\024_2023_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\025_13023.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\025_13023_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\026_1260.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\026_1260_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\027_2178.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
     <ClCompile Include="Doit\027_2178_sol.cpp">
-      <Filter>소스 파일\Doit</Filter>
+      <Filter>소스 파일\Doit\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\028_1167.cpp">
+      <Filter>소스 파일\Doit\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\028_1167_sol.cpp">
+      <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
