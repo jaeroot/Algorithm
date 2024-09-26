@@ -198,5 +198,11 @@
     <ClCompile Include="Doit\028_1167_sol.cpp">
       <Filter>소스 파일\Doit\Search</Filter>
     </ClCompile>
+    <ClCompile Include="Doit\029_1920.cpp">
+      <Filter>소스 파일\Doit\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\029_1920_sol.cpp">
+      <Filter>소스 파일\Doit\Search</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
