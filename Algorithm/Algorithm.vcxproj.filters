@@ -243,5 +243,11 @@
     <ClCompile Include="Doit\035_1931_sol.cpp">
       <Filter>소스 파일\Doit\Greedy</Filter>
     </ClCompile>
+    <ClCompile Include="Doit\036_1541.cpp">
+      <Filter>소스 파일\Doit\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\036_1541_sol.cpp">
+      <Filter>소스 파일\Doit\Greedy</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
