@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Doit\Search">
       <UniqueIdentifier>{c18654f8-6409-441e-a106-347c5e661b8b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Doit\Greedy">
+      <UniqueIdentifier>{7740d52e-9685-4841-8407-02df3ba5e819}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Doit\000_2750.cpp">
@@ -215,6 +218,12 @@
     </ClCompile>
     <ClCompile Include="Doit\031_1300_sol.cpp">
       <Filter>소스 파일\Doit\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\032_11047.cpp">
+      <Filter>소스 파일\Doit\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Doit\032_11047_sol.cpp">
+      <Filter>소스 파일\Doit\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
