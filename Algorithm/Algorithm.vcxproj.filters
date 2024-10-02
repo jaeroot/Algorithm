@@ -300,5 +300,11 @@
     <ClCompile Include="044_1033_sol.cpp">
       <Filter>소스 파일\Doit\Math</Filter>
     </ClCompile>
+    <ClCompile Include="045_21568.cpp">
+      <Filter>소스 파일\Doit\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="045_21568_sol.cpp">
+      <Filter>소스 파일\Doit\Math</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
