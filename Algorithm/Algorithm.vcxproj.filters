@@ -315,5 +315,11 @@
     <ClCompile Include="Doit\046_18352_sol.cpp">
       <Filter>소스 파일\Doit\Graph</Filter>
     </ClCompile>
+    <ClCompile Include="Doit\047_1325.cpp">
+      <Filter>소스 파일\Doit\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="050_1717.cpp">
+      <Filter>소스 파일\Doit\Graph</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
