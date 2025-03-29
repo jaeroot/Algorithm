@@ -369,9 +369,6 @@
     <ClCompile Include="BOJ\16947.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="2839.cpp">
-      <Filter>소스 파일\BOJ</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ\1541.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
@@ -381,7 +378,13 @@
     <ClCompile Include="BOJ\1920.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
-    <ClCompile Include="1012.cpp">
+    <ClCompile Include="BOJ\1012.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\2839.cpp">
+      <Filter>소스 파일\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ\4803.cpp">
       <Filter>소스 파일\BOJ</Filter>
     </ClCompile>
   </ItemGroup>
